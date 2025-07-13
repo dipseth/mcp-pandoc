@@ -1,4 +1,4 @@
-#!/Users/srivers/.pandoc/venv/bin/python3
+#!/usr/bin/env python3
 """
 Ultra High-Quality Pandoc filter to convert Mermaid code blocks to crisp PNG/SVG images.
 Enhanced version with dramatically improved resolution, advanced Puppeteer configuration,
